@@ -22,7 +22,6 @@
 <a href="#" title="WordPress"><img src="https://skillicons.dev/icons?i=wordpress" width="60" /></a>
 <a href="#" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" width="60" /></a>
 <br>
-<a href="#" title="Shopify"><img src="https://skillicons.dev/icons?i=shopify" width="60" /></a>
 <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="60" /></a>
 <a href="#" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="60" /></a>
 <a href="#" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="60" /></a>
