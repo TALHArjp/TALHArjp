@@ -1,7 +1,7 @@
-:::writing{variant="standard" id="51927"}
 <div align="center">
 
-# Hi, I'm Talha 👋
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=46&duration=2200&pause=900&color=28C7FA&center=true&vCenter=true&width=700&height=90&lines=Hi+There!;I'm+Talha" alt="Typing SVG" />
 
 ### Front-End Developer | Web Designer | Creative Learner
 
@@ -10,52 +10,6 @@ I create clean, responsive and user-friendly websites using HTML, CSS, JavaScrip
 </div>
 
 ---
-
-<table>
-<tr>
-<td width="35%" valign="top">
-
-## 👤 Profile
-
-**Talha RJP**  
-Front-End Developer & Web Designer
-
-I build clean, responsive and user-friendly websites with modern front-end and CMS tools.
-
-<br>
-
-## 🔗 Links
-
-[![Gmail](https://img.shields.io/badge/Gmail-talharjp707%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talharjp707@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Talha%20RJP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-rjp-3a1a06354/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-talha__official13-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talha_official13/)
-
-[![Website](https://img.shields.io/badge/Website-Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talharjp707.github.io)
-
-<br>
-
-## 🏆 Highlights
-
-![Developer](https://img.shields.io/badge/Developer-Program%20Member-2ea44f?style=for-the-badge&logo=github&logoColor=white)
-
-![Pro Style](https://img.shields.io/badge/Profile-PRO%20Style-8957e5?style=for-the-badge&logo=githubsponsors&logoColor=white)
-
-![Creative](https://img.shields.io/badge/Creative-Web%20Designer-ff7b72?style=for-the-badge&logo=figma&logoColor=white)
-
-<br>
-
-## ⚡ Status
-
-- 🔭 Working on web development projects  
-- 🌱 Learning modern front-end development  
-- 💬 Ask me about HTML, CSS, JS, PHP, WordPress and Shopify  
-- ⚡ I enjoy building creative and useful web projects  
-
-</td>
-
-<td width="65%" valign="top">
 
 ## 🛠️ Languages & Tools
 
@@ -83,14 +37,14 @@ I build clean, responsive and user-friendly websites with modern front-end and C
 
 </div>
 
-<br>
+---
 
 ## 🚀 About Me
 
 I am a creative front-end learner focused on building modern, responsive and clean websites.  
 I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, Shopify Liquid, React and Node.js.
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
@@ -102,7 +56,7 @@ I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, Shopify Liq
 
 </div>
 
-<br>
+---
 
 ## 🔥 Contribution Streak
 
@@ -112,15 +66,11 @@ I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, Shopify Liq
 
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
-<div align="center">
-
 ## ✍️ Random Dev Quote
+
+<div align="center">
 
 > “First, solve the problem. Then, write the code.”
 
@@ -128,11 +78,10 @@ I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, Shopify Liq
 
 ---
 
-<div align="center">
-
 ## 🧠 Developer Mode
+
+<div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
 </div>
-:::
