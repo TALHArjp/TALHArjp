@@ -48,11 +48,20 @@ I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, Shopify Liq
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TALHArjp&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TALHArjp&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TALHArjp&layout=compact&theme=tokyonight&hide_border=true)
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TALHArjp&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TALHArjp&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TALHArjp&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TALHArjp&theme=tokyonight&utcOffset=5" />
 
 </div>
 
