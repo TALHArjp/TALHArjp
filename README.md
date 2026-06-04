@@ -66,9 +66,13 @@ I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React, and 
 
 ## ✍️ Random Dev Quote
 
+
+
 <div align="center">
 
-> “First, solve the problem. Then, write the code.”
+## ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
