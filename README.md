@@ -10,18 +10,22 @@
 </div>
 
 ---
-
-<h2 align="center">🛠️ Languages & Tools</h2>
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-<!-- First Row -->
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,nextjs,materialui,html,css,vscode,github" width="40"/>
-
-<br><br>
-
-<!-- Second Row -->
-<img src="https://skillicons.dev/icons?i=sass,figma,git,typescript,threejs,nodejs,javascript,firebase,mongodb,python,mysql,php,laravel,wordpress,shopify" width="40"/>
+<img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=php" width="60" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=laravel" width="60" alt="Laravel" />
+<img src="https://skillicons.dev/icons?i=bootstrap" width="60" alt="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=wordpress" width="60" alt="WordPress" />
+<img src="https://skillicons.dev/icons?i=shopify" width="60" alt="Shopify" />
+<img src="https://skillicons.dev/icons?i=react" width="60" alt="React" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="60" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=vscode" width="60" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" />
 
 </div>
 
