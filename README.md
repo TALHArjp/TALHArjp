@@ -1,4 +1,4 @@
-```md
+:::writing{variant="standard" id="51927"}
 <div align="center">
 
 # Hi, I'm Talha 👋
@@ -135,4 +135,4 @@ I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, Shopify Liq
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
 </div>
-```
+:::
