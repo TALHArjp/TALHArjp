@@ -87,19 +87,22 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
 
 <div align="center">
 
-<!-- Fun Developer Mode GIF -->
+<!-- Developer Mode Image -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-<!-- Skills Icons Row -->
-<div style="margin-top:20px;">
+<!-- Icons in two rows, centered and evenly spaced -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
+  <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=html" width="60" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" width="60" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=js" width="60" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=php" width="60" title="PHP"/>
   <img src="https://skillicons.dev/icons?i=laravel" width="60" title="Laravel"/>
   <img src="https://skillicons.dev/icons?i=wordpress" width="60" title="WordPress"/>
-  <img src="https://skillicons.dev/icons?i=shopify" width="60" title="Shopify"/>
   <img src="https://skillicons.dev/icons?i=react" width="60" title="React"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" title="VS Code"/>
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=github" width="60" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="60" title="Node.js"/>
 </div>
 
