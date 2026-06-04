@@ -15,25 +15,13 @@ I create clean, responsive and user-friendly websites using HTML, CSS, JavaScrip
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- First Row -->
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,nextjs,materialui,html,css,vscode,github" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br>
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Shopify Liquid](https://img.shields.io/badge/Shopify%20Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<!-- Second Row -->
+<img src="https://skillicons.dev/icons?i=sass,figma,git,typescript,threejs,nodejs,javascript,firebase,mongodb,python,mysql,php,laravel,wordpress,shopify" />
 
 </div>
 
@@ -42,12 +30,11 @@ I create clean, responsive and user-friendly websites using HTML, CSS, JavaScrip
 ## 🚀 About Me
 
 I am a creative front-end learner focused on building modern, responsive and clean websites.  
-I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, Shopify Liquid, React and Node.js.
+I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React and Node.js.
 
 ---
 
 ## 📊 GitHub Stats
-
 
 <div align="center">
 
