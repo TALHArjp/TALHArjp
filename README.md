@@ -26,7 +26,6 @@
 <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="60" /></a>
 <a href="#" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="60" /></a>
 <a href="#" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="60" /></a>
-<a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="60" /></a>
 
 </div>
 
