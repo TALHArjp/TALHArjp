@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=46&duration=2200&pause=900&color=28C7FA&center=true&vCenter=true&width=700&height=90&lines=Hi+There!;I'm+Talha" alt="Typing SVG" />
 
@@ -10,22 +10,22 @@
 </div>
 
 ---
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS" />
-<img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=php" width="60" alt="PHP" />
-<img src="https://skillicons.dev/icons?i=laravel" width="60" alt="Laravel" />
-<img src="https://skillicons.dev/icons?i=bootstrap" width="60" alt="Bootstrap" />
-<img src="https://skillicons.dev/icons?i=wordpress" width="60" alt="WordPress" />
-<img src="https://skillicons.dev/icons?i=shopify" width="60" alt="Shopify" />
-<img src="https://skillicons.dev/icons?i=react" width="60" alt="React" />
-<img src="https://skillicons.dev/icons?i=nodejs" width="60" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=vscode" width="60" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" />
+<a href="#" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="60" /></a>
+<a href="#" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="60" /></a>
+<a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="60" /></a>
+<a href="#" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="60" /></a>
+<a href="#" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" width="60" /></a>
+<a href="#" title="WordPress"><img src="https://skillicons.dev/icons?i=wordpress" width="60" /></a>
+<a href="#" title="Shopify"><img src="https://skillicons.dev/icons?i=shopify" width="60" /></a>
+<a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="60" /></a>
+<a href="#" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="60" /></a>
+<a href="#" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="60" /></a>
+<a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="60" /></a>
 
 </div>
 
@@ -34,11 +34,11 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-I am a creative front-end developer and Shopify & WordPress specialist focused on building modern, responsive, and user-friendly websites. I have hands-on experience in theme customization, store setup and management, e-commerce SEO, and converting pixel-perfect Figma designs into functional websites. My work ensures intuitive navigation, optimized performance, and high-quality, engaging user experiences across all devices.
+I am a passionate web developer specializing in WordPress, Shopify, and e-commerce solutions. I excel in theme customization, store setup, and optimization, ensuring high-performance and user-friendly online stores. I love transforming designs into functional websites and continuously learn new technologies to stay ahead.
 </p>
 
 <p align="center">
-I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React, and Node.js to deliver visually appealing and technically robust solutions for e-commerce and web projects.
+My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React, and Node.js. I focus on delivering visually appealing, responsive, and scalable websites that meet client needs.
 </p>
 
 ---
@@ -77,7 +77,7 @@ I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React, and 
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -90,13 +90,17 @@ I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React, and 
 <!-- Fun Developer Mode GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-<br><br>
-
-<!-- Fun pixel/dev images row -->
-<img src="https://i.imgur.com/your_pixel_1.png" width="60" />
-<img src="https://i.imgur.com/your_pixel_2.png" width="60" />
-<img src="https://i.imgur.com/your_pixel_3.png" width="60" />
-<img src="https://i.imgur.com/your_pixel_4.png" width="60" />
-<img src="https://i.imgur.com/your_pixel_5.png" width="60" />
+<!-- Skills Icons Row -->
+<div style="margin-top:20px;">
+  <img src="https://skillicons.dev/icons?i=html" width="60" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="60" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" width="60" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=php" width="60" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=laravel" width="60" title="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" width="60" title="WordPress"/>
+  <img src="https://skillicons.dev/icons?i=shopify" width="60" title="Shopify"/>
+  <img src="https://skillicons.dev/icons?i=react" width="60" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60" title="Node.js"/>
+</div>
 
 </div>
