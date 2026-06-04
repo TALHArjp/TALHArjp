@@ -3,7 +3,7 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=46&duration=2200&pause=900&color=28C7FA&center=true&vCenter=true&width=700&height=90&lines=Hi+There!;I'm+Talha" alt="Typing SVG" />
 
-### | Wordpress | Shopify | | E-Commerce Store management |Creative Learner
+###  Wordpress | Shopify | | E-Commerce Store management |Creative Learner
 
 I create clean, responsive and user-friendly websites using HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React and modern web tools.
 
