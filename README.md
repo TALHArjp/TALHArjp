@@ -64,8 +64,6 @@ I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React, and 
 
 ---
 
-## ✍️ Random Dev Quote
-
 
 
 <div align="center">
@@ -76,12 +74,23 @@ I work with HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React, and 
 
 </div>
 
+
 ---
 
 ## 🧠 Developer Mode
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+<!-- Fun Developer Mode GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+<br>
+
+<!-- Fun pixel/dev images row -->
+<img src="https://i.imgur.com/your_pixel_1.png" width="60"/>
+<img src="https://i.imgur.com/your_pixel_2.png" width="60"/>
+<img src="https://i.imgur.com/your_pixel_3.png" width="60"/>
+<img src="https://i.imgur.com/your_pixel_4.png" width="60"/>
+<img src="https://i.imgur.com/your_pixel_5.png" width="60"/>
 
 </div>
